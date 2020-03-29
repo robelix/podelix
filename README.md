@@ -19,6 +19,8 @@ On the phone AntennaPod is OK - but mobile only.
 
 I've looked at a lot of podcast players - and don't like them all for diffrent reasons - and there is one feature I'm currently missing and none of the existing tools provides: cross-device syncing.
 
+Recently I had a look to funkwhale after they added rss-support - But it's not the tool for me. It has a completely diffrent focus, but maybe I can "steal" some code there.
+
 
 Finally I realized that the two hardest parts should be simple with a web-based player:
 * Browsers got pretty good at playing media.
